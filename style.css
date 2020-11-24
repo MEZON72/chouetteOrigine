@@ -7,6 +7,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.auteur {
+  font-size: 0.8em;
+}
+
 a,
 button {
   transition: all 0.3s ease-in-out;
