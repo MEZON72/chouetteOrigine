@@ -11,6 +11,39 @@ body {
   font-size: 0.8em;
 }
 
+.supersize {
+  font-size: 2.5em;
+}
+
+.supsize {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+.moyensize {
+  font-size: 1em;
+  margin-top: 2em;
+}
+
+.white {
+  color: white;
+}
+
+.blockquote h2 {
+  /* display: block; */
+  font-size: 1.5em;
+}
+
+.signature {
+  display: block;
+  font-size: 0.8em;
+  margin-top: 1em;
+}
+
+.margintop {
+  margin-top: 3em;
+}
+
 a,
 button {
   transition: all 0.3s ease-in-out;
@@ -759,7 +792,7 @@ h4 {
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
+  background-color: bcorange;
   padding: 40px 40px 40px 40px;
 }
 
